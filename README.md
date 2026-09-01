@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Anubha Agarwal 👋
+### AI Developer & Middleware Specialist
 
-<!--
-**anubagar/anubagar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build application integrations, automated data workflows, and Generative AI solutions.
 
-Here are some ideas to get you started:
+- 🔭 **Currently Focusing On**: Generative AI, Large Language Models (LLMs), and API integrations.
+- 🎓 **Active Learning**: Enrolled in Certificate in Generative AI conducted by IIT Bombay — hands-on practice with Machine learning, Prompt Engineering, RAG, and AI agents.
+- 🛠️ **Tech Stack**: Python, LangChain, OpenAI APIs, PyTorch, Google Colab, REST APIs, SQL. webMethods, shell Scripts
+- 📫 **Connect with me**: [[LinkedIn Profile Link]](https://www.linkedin.com/in/anubhaagarwal/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Featured AI Work & Colab Notebooks
+
+| Project / Notebook | Topic | Direct Colab Link |
+| :--- | :--- | :--- |
+| **Prompt Engineering Lab** | System Prompts & Structured JSON Output | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/YOUR_REPO/blob/main/notebook_name.ipynb) |
+| **LLM API Integration** | Python-based LLM API calls & Function Calling | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/YOUR_REPO/blob/main/notebook_name.ipynb) |
