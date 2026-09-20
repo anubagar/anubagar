@@ -1,7 +1,7 @@
 # Hi, I'm Anubha Agarwal 👋
 ### AI Developer & Middleware Specialist
 
-I build application integrations, automated data workflows, and Generative AI solutions.
+
 
 - 🔭 **Currently Focusing On**: Generative AI, Large Language Models (LLMs), and API integrations.
 - 🎓 **Active Learning**: Enrolled in Certificate in Generative AI conducted by IIT Bombay — hands-on practice with Machine learning, Prompt Engineering, RAG, and AI agents.
